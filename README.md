@@ -15,7 +15,7 @@ MuseLingo is a Python application that generates poetry in multiple languages (E
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/MuseLingo.git
+git clone https://github.com/abhinav-2705/MuseLingo.git
 cd MuseLingo
 
 # No additional dependencies required - uses standard Python libraries
