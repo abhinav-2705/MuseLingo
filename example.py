@@ -1,3 +1,5 @@
+# JUST A BASIC PROJECT , STILL TRYING TO BUILD IT BIGGER!
+
 # Example Usage of MuseLingo
 
 from muse_lingo import MuseLingo
