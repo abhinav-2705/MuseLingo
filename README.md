@@ -19,3 +19,6 @@ git clone https://github.com/abhinav-2705/MuseLingo.git
 cd MuseLingo
 
 # No additional dependencies required - uses standard Python libraries
+
+
+So this is basically a project that i created just when i had started to learn python (its fun tbh), still got a long way to go  
